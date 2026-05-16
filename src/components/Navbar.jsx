@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav className="flex justify-between items-center p-6 border-b border-slate-700">
-      <h1 className="text-2xl font-bold">
+      <h1 className="flex items-center text-2xl font-bold">
         Thiago Silva De Oliveira
       </h1>
 
