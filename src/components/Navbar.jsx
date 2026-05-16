@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="flex justify-between items-center p-6 border-b border-slate-700">
       <h1 className="text-2xl font-bold">
-        Thiago Silva
+        Thiago Silva De Oliveira
       </h1>
 
       <div className="flex gap-6">
